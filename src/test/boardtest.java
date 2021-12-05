@@ -5,8 +5,8 @@ class Board {
 
     @Test
     public void Boardnotnull() {
-        Board Board = new Board();
-        Board(Board() != null);
+        Board gameBoard = new Board();
+        Board(gameBoard() != null);
         System.out.println("nem ures a map");
     }
     @Test
