@@ -1,4 +1,4 @@
-package TwoBoxBoat
+package TwoBoxBoat;
 import org.junit.jupiter.api.Test;
 class TwoBoxBoat{
                 @Test

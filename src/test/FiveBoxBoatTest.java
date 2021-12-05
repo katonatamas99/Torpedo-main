@@ -1,4 +1,4 @@
-package FiveBoxBoat
+package FiveBoxBoat;
 import org.junit.jupiter.api.Test;
 class FiveBoxBoat{
     @Test

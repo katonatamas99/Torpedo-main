@@ -1,4 +1,4 @@
-package ThreeBoxBoat
+package ThreeBoxBoat;
 import org.junit.jupiter.api.Test;
 class ThreeBoxBoat{
     @Test

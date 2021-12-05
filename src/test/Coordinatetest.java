@@ -1,9 +1,13 @@
-package Coordinate
+package Coordinate;
 
 import org.junit.jupiter.api.Test;
 
 class Coordinate{
-   @Test
+    public Coordinate(int i, int i1) {
+
+    }
+
+    @Test
     void kordinatavizsgalat(){
        Coordinate kordinata=new Coordinate(5,5);
        assertEquals(5,kordinata.getX());

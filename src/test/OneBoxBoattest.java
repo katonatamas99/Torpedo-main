@@ -1,4 +1,4 @@
-package OneBoxBoat
+package OneBoxBoat;
 import org.junit.jupiter.api.Test;
 class OneBoxBoat{
 @Test

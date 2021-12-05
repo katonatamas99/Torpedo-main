@@ -1,13 +1,13 @@
-package Player
 
 import org.junit.jupiter.api.Test;
 
-class Player{
-    @Test
-    void talalat(){
-        if(hitBoard.getBoard()==8){
-            return true;
-        }
+import static org.junit.jupiter.api.Assertions.assertTrue;
 
+class PlayerTest {
+
+
+    @Test
+    void testGetIsAlive() {
+        assertTrue((new Player(" nickname", 1)).getIsAlive());
     }
 }
