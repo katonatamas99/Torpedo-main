@@ -10,9 +10,9 @@ class Board {
         System.out.println("nem ures a map");
     }
     @Test
-    public void sucessAddBoard(){
-        Board addBoard =new Board();
-        Board(addBoard() == true);
+    public void sucessAddBoat(){
+        Board addBoat =new Board();
+        Board(addBoat() == true);
         System.out.println("hajolerakas sikeres");
     }
 }
