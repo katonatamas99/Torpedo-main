@@ -3,7 +3,7 @@ package Coordinate;
 import org.junit.jupiter.api.Test;
 
 class Coordinate{
-    public Coordinate(int i, int i1) {
+    public Coordinate(int i, int j) {
 
     }
 
