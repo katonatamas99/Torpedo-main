@@ -7,7 +7,7 @@ class PlayerTest {
 
 
     @Test
-    void testGetIsAlive() {
+    void Elemeg() {
         assertTrue((new Player(" nickname", 1)).getIsAlive());
     }
 }
